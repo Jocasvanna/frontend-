@@ -1,0 +1,17 @@
+.header{
+    background-color: #212169;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+.menu{
+    font-size: 24px;
+    font-family: verdana;
+    color: rgb(45, 15, 45);
+    font-weight: bolder;
+
+
+}
